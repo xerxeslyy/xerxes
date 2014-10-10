@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width: 730px) {
+   .h_list li div p{ height:40px;}
+   .main{ padding-top:5%;}
+   .home_bantop ul li a{ font-size:1.2rem;}
+   #search_box{ background:url(../images/search730.gif) no-repeat; width:355px; height:50px;}
+   #search_box #go{ margin:7px 18px 0 0; height:35px; width:33px;}
+   #search_box #s{ width:240px; line-height:40px; font-size:1.2rem;}
+   
+}
+@media screen and (max-width: 645px) {
+   .h_list li div a{ font-size:1.4rem}
+   .h_list li div p,.h_list li div{ padding-top:1%;}
+   .main{ padding-top:5.5%;}
+   .slideBox .hd li{ width:10px; height:10px;}
+}
+@media screen and (max-width: 575px) {
+   .head p{ font-size:1.2rem}
+	  .main{ padding-top:6%;}
+	  .head img{ width:20px; height:20px;}
+	   #search_box{ background:url(../images/search575.gif) no-repeat; width:232px; height:32px;}
+   #search_box #go{ margin:6px 12px 0 0; height:20px; width:18px;}
+   #search_box #s{ width:170px; line-height:20px; font-size:0.8rem;}
+	  
+}
+@media screen and (max-width: 453px) {
+   .h_list li div a{ font-size:1.2rem}
+   .h_list li div p{ height:20px;}
+   .home_bantop ul li a{ font-size:1.0rem;}
+   .main{ padding-top:7%;}
+   .slideBox .hd ul{ padding-left:40%;}
+}
+@media screen and (max-width: 430px) {
+      .main{ padding-top:7.5%;}
+	  .home_bantop ul li a{ font-size:0.8rem}
+	  #search_box{ margin-top:4%; margin-bottom:4%;}
+	  .h_list li{ margin:5% 0;}
+	}
+@media screen and (max-width: 400px) {
+      .main{ padding-top:7.8%;}
+	}
+@media screen and (max-width: 375px) {
+      .main{ padding-top:8%;}
+	}
+@media screen and (max-width: 350px) {
+  .main{ padding-top:8.8%;}
+	}
+@media screen and (max-width: 340px) {
+    .head p{ width:30%;}
+	.head a.area{ width:25%;}
+	.main{ padding-top:9.5%;}
+	}
